@@ -4,9 +4,11 @@
  ![jump](jum.gif) 
   </p>
    <p align="center">
-   <img align="center" src="gears.gif" width="350" height="250" align="center">
+ 
+  <img align="center" src="Promote-1.jpg" width="450" height="250" align="center">
+  <img align="center" src="gears.gif" width="250" height="250" align="center">
   
-  <img align="center" src="jump.gif" width="200" height="250">
+  <img align="center" src="jump.gif" width="250" height="250">
   
   </p>
  **Problem statement:**  
