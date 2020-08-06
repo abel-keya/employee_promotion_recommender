@@ -1,6 +1,7 @@
 # employee_promotion_recommender
 
-|<img align="center" src="Promote-1.jpg" width="400" height="600" align="center"> |<p> <img align="center" src="gears.gif" width="200" height="100" align="center">   <img align="center" src="jump.gif" width="200" height="100"  align="center"></p>  |
+<img align="center" src="Promote-1.jpg" width="400" height="600" align="center"> <p> <img align="center" src="gears.gif" width="200" height="100" align="center">  
+<img align="right" src="jump.gif" width="200" height="100"  align="center">
 
     
   
