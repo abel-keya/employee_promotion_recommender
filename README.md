@@ -4,9 +4,9 @@
    <p align="center">
  
   <img align="center" src="Promote-1.jpg" width="400" height="200" align="center">
-  <img align="center" src="gears.gif" width="200" height="300" align="left">
+  <img align="center" src="gears.gif" width="300" height="300" align="left">
   
-  <img align="center" src="jump.gif" width="200" height="300"  align="left">
+  <img align="center" src="jump.gif" width="300" height="300"  align="left">
   
   </p>
   
