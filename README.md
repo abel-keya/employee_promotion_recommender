@@ -1,6 +1,6 @@
 # employee_promotion_recommender
 
-  
+ ![gears](gears.gif)
  ![jump](jump.gif) 
  
  **Problem statement:**  
