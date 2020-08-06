@@ -3,10 +3,10 @@
   </p>
    <p align="center">
  
-  <img align="center" src="Promote-1.jpg" width="450" height="700" align="center">
-  <img align="center" src="gears.gif" width="450" height="300" align="center">
+  <img align="center" src="Promote-1.jpg" width="450" height="800" align="center">
+  <img align="center" src="gears.gif" width="450" height="250" align="center">
   
-  <img align="center" src="jump.gif" width="450" height="300">
+  <img align="center" src="jump.gif" width="450" height="250">
   
   </p>
  **Problem statement:**  
