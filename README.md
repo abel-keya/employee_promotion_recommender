@@ -75,7 +75,11 @@ Given the long procedure for evaluation of a promotion candidate, there are huge
 </p>
 
 # Support
-In case of any clarifications or suggestions with regards to this project email me at jumakeya@gmail.com
+In case of any clarifications or suggestions with regards to this project email us at the following email addresses:
+- jumakeya@gmail.com
+- elizangandu97@gmail.com
+- colorotich@gmail.com
+-  sarahlaura1428@gmail.com
 
 License
 Copyright (c) 2020 **Abel Keya**
