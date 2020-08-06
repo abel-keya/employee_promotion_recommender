@@ -1,14 +1,12 @@
 # employee_promotion_recommender
 
- ![gear](gear.gif)
- ![jump](jum.gif) 
   </p>
    <p align="center">
  
-  <img align="center" src="Promote-1.jpg" width="450" height="250" align="center">
-  <img align="center" src="gears.gif" width="250" height="250" align="center">
+  <img align="center" src="Promote-1.jpg" width="550" height="700" align="center">
+  <img align="center" src="gears.gif" width="450" height="350" align="center">
   
-  <img align="center" src="jump.gif" width="250" height="250">
+  <img align="center" src="jump.gif" width="450" height="350">
   
   </p>
  **Problem statement:**  
