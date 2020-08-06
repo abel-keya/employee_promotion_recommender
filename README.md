@@ -30,19 +30,33 @@ Dataset
 
 The [dataset](https://drive.google.com/drive/folders/1DtDYBME3bKQaC3VKQ3hzDNfoKoj4J7BZ?usp=sharing) has the following features:
 Column	Description
+
 employee_id:Unique ID for employee
+
 department:Department of employee
+
 region:Region of employment (unordered)
+
 education:Education Level
+
 gender:Gender of Employee
+
 recruitment_channel:Channel of recruitment for employee
+
 no_of_trainings:number of other trainings completed in previous year
+
 age:Age of Employee
+
 previous_year_rating:Employee Rating for the previous year
+
 length_of_service:Length of service in years
+
 KPIs_met >80%:if KPIs >80% then 1 else 0
+
 awards_won?:if awards won during previous year then 1 else 0
+
 avg_training_score:Average score in current training evaluations
+
 is_promoted	(Target):Recommended for promotion
 
 
