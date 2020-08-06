@@ -1,7 +1,8 @@
 # employee_promotion_recommender
 
   
- ![G1](G1.gif) 
+ ![jump](jump.gif) 
+ 
  **Problem statement:**  
 
 A determines whether an employee is due for promotion  based on the HR metrics
