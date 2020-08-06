@@ -4,9 +4,9 @@
    <p align="center">
  
   <img align="center" src="Promote-1.jpg" width="400" height="200" align="center">
-  <img align="center" src="gears.gif" width="200" height="100" align="left">
+  <img align="center" src="gears.gif" width="200" height="200" align="left">
   
-  <img align="center" src="jump.gif" width="200" height="100"  align="left">
+  <img align="center" src="jump.gif" width="200" height="200"  align="left">
   
   </p>
   
@@ -30,7 +30,8 @@ Objective: The company has hired you to help out in identifying the eligible can
 Dataset
 
 The [dataset](https://drive.google.com/drive/folders/1DtDYBME3bKQaC3VKQ3hzDNfoKoj4J7BZ?usp=sharing) has the following features:
-Column	Description
+
+**Column:**	Description
 
 **employee_id:**  Unique ID for employee
 
