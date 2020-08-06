@@ -1,8 +1,14 @@
 # employee_promotion_recommender
 
- ![gears](gears.gif)
- ![jump](jump.gif) 
- 
+ ![gear](gear.gif)
+ ![jump](jum.gif) 
+  </p>
+   <p align="center">
+   <img align="center" src="gears.gif" width="350" height="250" align="center">
+  
+  <img align="center" src="gears.gif" width="200" height="250">
+  
+  </p>
  **Problem statement:**  
 
 A determines whether an employee is due for promotion  based on the HR metrics
@@ -70,7 +76,7 @@ Given the long procedure for evaluation of a promotion candidate, there are huge
    
  <p align="center"> 
    
-  <img   src="tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
+  <img   src="  https://github.com/abel-keya/Decision-trees-classification-Models-and-Support-Vector-Machines/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
  
 </p>
 
