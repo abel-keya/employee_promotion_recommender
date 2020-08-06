@@ -4,7 +4,7 @@
   
  # Problem statement: 
 
-A determines whether an employee is due for promotion  based on the HR metrics
+A machine learning model to determine whether an employee is due for promotion  based on the HR metrics
 
 # Objective: 
 
