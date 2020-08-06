@@ -1,6 +1,6 @@
 # employee_promotion_recommender
 
- <img align="center" src="gears.gif" width="300" height="200">    <img align="center" src="Promote-1.jpg" width="450" height="200"><img align="center" src="jump.gif" width="300" height="200">
+ <img align="center" src="gears.gif" width="300" height="200">    <img align="center" src="Promote-1.jpg" width="400" height="300"><img align="center" src="jump.gif" width="300" height="200">
   
  # Problem statement: 
 
