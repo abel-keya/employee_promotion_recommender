@@ -3,10 +3,10 @@
   </p>
    <p align="center">
  
-  <img align="center" src="Promote-1.jpg" width="450" height="800" align="center">
-  <img align="center" src="gears.gif" width="450" height="250" align="center">
+  <img align="center" src="Promote-1.jpg" width="400" height="200" align="center">
+  <img align="center" src="gears.gif" width="200" height="10" align="center">
   
-  <img align="center" src="jump.gif" width="450" height="250">
+  <img align="center" src="jump.gif" width="200" height="100">
   
   </p>
  **Problem statement:**  
@@ -76,7 +76,7 @@ Given the long procedure for evaluation of a promotion candidate, there are huge
    
  <p align="center"> 
    
-  <img   src="  https://github.com/abel-keya/Decision-trees-classification-Models-and-Support-Vector-Machines/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
+  <img   src="https://github.com/abel-keya/Decision-trees-classification-Models-and-Support-Vector-Machines/blob/master/tech3.jpg" width="550" height="300"  alt="DS" title="Requirements" />
  
 </p>
 
