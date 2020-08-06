@@ -10,11 +10,13 @@
   
   </p>
   
- **Problem statement:**  
+ # Problem statement: 
 
 A determines whether an employee is due for promotion  based on the HR metrics
 
-Objective: The company has hired you to help out in identifying the eligible candidates at a specific checkpoint, so as to help them expedite the whole promotion process. The company has provided multiple data points around the staff’s past and present performance, together with some demographics. Predict whether a candidate within the promotion pipeline should be promoted or not. 
+# Objective: 
+
+The company has hired you to help out in identifying the eligible candidates at a specific checkpoint, so as to help them expedite the whole promotion process. The company has provided multiple data points around the staff’s past and present performance, together with some demographics. Predict whether a candidate within the promotion pipeline should be promoted or not. 
   
 # Description
 
@@ -27,7 +29,8 @@ Objective: The company has hired you to help out in identifying the eligible can
 
 
 # Data Features
-Dataset
+
+### Dataset
 
 The [dataset](https://drive.google.com/drive/folders/1DtDYBME3bKQaC3VKQ3hzDNfoKoj4J7BZ?usp=sharing) has the following features:
 
@@ -81,6 +84,7 @@ Given the long procedure for evaluation of a promotion candidate, there are huge
   
 
 # Requirements
+
 * Anaconda installation
 * Google colab
 * Setup instruction
