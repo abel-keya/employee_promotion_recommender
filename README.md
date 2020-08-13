@@ -11,14 +11,16 @@ A machine learning model to determine whether an employee is due for promotion  
 The company has hired you to help out in identifying the eligible candidates at a specific checkpoint, so as to help them expedite the whole promotion process. The company has provided multiple data points around the staff’s past and present performance, together with some demographics. Predict whether a candidate within the promotion pipeline should be promoted or not. 
   
 # Description
-
-### Solution 1: 
-
-</p>
 - optimization of each of the the above models to Identify the best model, and used the best model to determine which features are most impactful in influencing the prediction
 
-### Solution 2:
+### Solution 1: XGBoost
 
+</p>
+
+### Solution 2:LightGBM 
+
+
+### Solution 3:CatBoost
 
 # Data Features
 
